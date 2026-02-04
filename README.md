@@ -1,4 +1,4 @@
-# Dig-italImage-Processing
+# Digital-Image-Processing
 #Lab Task Prompts
 Task 1
 Read any colored image display its red green and blue component separatly.Create a grayscale and binary image from any colored image.
